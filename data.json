@@ -1,0 +1,15 @@
+{
+    "seller": {
+        "name": "我是何佳源",
+        "description": "前端开发工程师",
+        "supports": [
+            {
+                "type": 0,
+                "description": "我是一个"
+            }, {
+                "type": 1,
+                "description": "小菜鸡"
+            }
+        ]
+    }
+}
